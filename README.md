@@ -80,8 +80,8 @@ Datasets are generated using a custom `generator.py` script. Users can specify t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/credit-card-fraud-neo4j.git
-   cd credit-card-fraud-neo4j
+   git clone https://github.com/RishavMondal/Credit-Card-Fraud-Detection-System.git
+   cd Credit-Card-Fraud-Detection-System
    ```
 
 2. Install dependencies:
