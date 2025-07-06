@@ -87,7 +87,7 @@ Datasets are generated using a custom `generator.py` script. Users can specify t
 2. Install dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install neo4j
    ```
 
 3. Generate data:
