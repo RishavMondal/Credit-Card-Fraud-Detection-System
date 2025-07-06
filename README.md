@@ -1,7 +1,3 @@
-Here’s a professional and informative `README.md` for your GitHub repository based on the PDF you provided:
-
----
-
 # 🕵️‍♂️ Credit Card Fraud Detection with Neo4j
 
 ## Overview
@@ -137,7 +133,3 @@ Contact: [LinkedIn](https://www.linkedin.com/in/rishavmondal)
 ## 📄 License
 
 This project is for academic and research purposes. Attribution is appreciated.
-
----
-
-Let me know if you'd like this saved as a `.md` file or integrated into a GitHub repo structure!
